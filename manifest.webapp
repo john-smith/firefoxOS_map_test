@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "googlemap",
+  "description": "neetomo firefox os using googlemap test",
+  "launch_path": "/index.html",
+  "developer": {
+      "name": "John Smith",
+      "url": "http://neetomo.com"
+
+  },
+  "installs_allowed_from": ["*"],
+  "permissions": {
+    "geolocation":{}
+  }
+}
